@@ -1,0 +1,137 @@
+.navbar li a {
+ font-size: medium;
+ color:black !important;
+}
+.navbar-nav li a{
+    color:black;
+}
+.navbar {
+    height: 3.6rem;
+}
+
+.container a{
+    font-size: large;
+}
+.fw-normal {
+    text-align: center;
+    font-weight: 400 !important;
+}
+.display-4 {
+    font-size: calc(1.475rem + 2.7vw);
+    line-height: 1.2;
+}
+.text-muted {
+    color: #6c757d !important;
+    text-align: center
+}
+.fs-5 {
+    font-size: 1.2rem !important;
+}
+.card {
+    text-align: center;
+    word-wrap: break-word;
+}
+.button1 {
+    border:2px solid #0d6efd;
+    color:#0d6efd;
+    background-color: white;
+    border-radius: 0.3rem;
+    border-color:#0d6efd;
+    cursor: pointer;
+    width: 100% ;
+    padding: 0.5rem 1rem;
+}
+.button2 {
+    border:2px solid #0d6efd;
+    color:#0d6efd;
+    background-color:#0d6efd;
+    border-radius: 0.3rem;
+    border-color:#0d6efd;
+    cursor: pointer;
+    width: 100% ;
+    padding: 0.5rem 1rem;
+}
+.button3 {
+    border:2px solid #0d6efd;
+    color:#0d6efd;
+    background-color: #0d6efd;
+    border-radius: 0.3rem;
+    border-color:#0d6efd;
+    cursor: pointer;
+    width: 100% ;
+    padding: 0.5rem 1rem;
+}
+.button2:hover{
+    background-color: #0d30e0f4;    
+  color: white;
+}
+.button3:hover{
+    background-color: #0d30e0f4;    
+  color: white;
+}
+.btn-primary {
+    color: #fff;
+}
+.button1:hover{
+    background-color: gainsboro;
+}
+.d-block {
+    text-align: left;
+}
+.link-secondary {
+    color: #6c757d;
+    text-align: left;
+}
+.text-decoration-none {
+    text-decoration: none !important;
+}
+.pt-4 {
+    padding-top: 1.5rem !important;
+}
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+.container {
+    max-width: 960px;
+}
+.mb-1 a {
+    margin-bottom: 0.25rem !important;
+}
+.col-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+} 
+.bg-primary {
+    background-color: #0d6efd !important;
+}
+.card1 {
+    border-color: #0d6efd;
+}
+.my-md-5 a {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
+.pt-md-5{
+    padding-top: 3rem !important;
+}
+.py-2 {
+    margin-top: 0.5rem !important;
+    text-align: right;
+}
+.d-inline-flex{
+    display: inline-flex !important;
+}
+.tex {
+    font-size: larger !important;
+}
+@media only screen and (max-width: 576px) {
+    .header {
+      flex-direction: column;
+    }
+  }
+
